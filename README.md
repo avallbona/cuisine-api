@@ -1,5 +1,7 @@
 # Cuisine api project
 
+Dummy project in Go that implements a very simple API to store cuisine receipts
+
 ## Testing the API with curl
 
 ### register a new user
